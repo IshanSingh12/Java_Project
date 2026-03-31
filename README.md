@@ -25,12 +25,12 @@ This project provides a structured solution to efficiently manage academic data.
 ---
 
 ## Features
-1)Student Management (add, view, list)
+1) Student Management (add, view, list)
 2) Course Management
 3) Enrollment System
 4) Grade & GPA Calculation
 5) File-based Data Storage
-6)Exception Handling (duplicate enrollment, credit limits)
+6) Exception Handling (duplicate enrollment, credit limits)
 
 ---
 
