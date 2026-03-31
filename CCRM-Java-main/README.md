@@ -101,3 +101,12 @@ This project provides a structured solution to efficiently manage academic data.
 | **Immutable Class** | `domain/Department.java`                                                                  |
 | **Assertions** | `domain/Course.java` (in the `Course(Builder builder)` constructor)                       |
 #
+
+---
+
+## 6.Learning Outcomes
+1) Practical implementation of Java concepts
+2) Structuring large-scale applications
+3) Debugging and handling errors
+4) Using Git & GitHub for version control
+#
