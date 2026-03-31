@@ -11,6 +11,29 @@ The Campus Course & Records Manager (CCRM) is a console-based Java application d
 
 ---
 
+## Problem Statement
+
+In many academic environments, managing student records manually or using unstructured tools leads to:
+
+Data inconsistency
+Difficulty in tracking enrollments
+Errors in grading and records
+Lack of centralized management
+
+This project provides a structured solution to efficiently manage academic data.
+
+---
+
+## Features
+1)Student Management (add, view, list)
+2) Course Management
+3) Enrollment System
+4) Grade & GPA Calculation
+5) File-based Data Storage
+6)Exception Handling (duplicate enrollment, credit limits)
+
+---
+
 ## 2. How to Run
 1.  **Prerequisites:** JDK 17 or later must be installed.
 2.  **Clone Repository:** `git clone https://github.com/augustine24ai-code/CCRM-Java.git`
@@ -44,7 +67,16 @@ The Campus Course & Records Manager (CCRM) is a console-based Java application d
 
 ---
 
-## 4. Mapping Table: Requirements to Code
+## 4. Concepts Implemented
+Encapsulation, Inheritance, Abstraction, Polymorphism
+Design Patterns (Singleton, Builder)
+Custom Exceptions
+File Handling (NIO.2)
+Lambda Expressions & Streams
+
+---
+
+## 5. Mapping Table: Requirements to Code
 
 | Requirement                | Location in Code                                                                          |
 | :------------------------- | :---------------------------------------------------------------------------------------- |
@@ -68,4 +100,13 @@ The Campus Course & Records Manager (CCRM) is a console-based Java application d
 | **Anonymous Inner Class** | `cli/CCRMApp.java` (in `handleAnonymousClassDemo`, used to implement `Predicate<Student>`)  |
 | **Immutable Class** | `domain/Department.java`                                                                  |
 | **Assertions** | `domain/Course.java` (in the `Course(Builder builder)` constructor)                       |
+#
+
+---
+
+## 6.Learning Outcomes
+Practical implementation of Java concepts
+Structuring large-scale applications
+Debugging and handling errors
+Using Git & GitHub for version control
 #
