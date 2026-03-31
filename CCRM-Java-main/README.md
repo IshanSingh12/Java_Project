@@ -67,7 +67,16 @@ This project provides a structured solution to efficiently manage academic data.
 
 ---
 
-## 4. Mapping Table: Requirements to Code
+## 4. Concepts Implemented
+1) Encapsulation, Inheritance, Abstraction, Polymorphism
+2) Design Patterns (Singleton, Builder)
+3) Custom Exceptions
+4) File Handling (NIO.2)
+5) Lambda Expressions & Streams
+
+---
+
+## 5. Mapping Table: Requirements to Code
 
 | Requirement                | Location in Code                                                                          |
 | :------------------------- | :---------------------------------------------------------------------------------------- |
