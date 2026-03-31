@@ -11,6 +11,29 @@ The Campus Course & Records Manager (CCRM) is a console-based Java application d
 
 ---
 
+## Problem Statement
+
+In many academic environments, managing student records manually or using unstructured tools leads to:
+
+1) Data inconsistency
+2) Difficulty in tracking enrollments
+3) Errors in grading and records
+4) Lack of centralized management
+
+This project provides a structured solution to efficiently manage academic data.
+
+---
+
+## Features
+1) Student Management (add, view, list)
+2) Course Management
+3) Enrollment System
+4) Grade & GPA Calculation
+5) File-based Data Storage
+6) Exception Handling (duplicate enrollment, credit limits)
+
+---
+
 ## 2. How to Run
 1.  **Prerequisites:** JDK 17 or later must be installed.
 2.  **Clone Repository:** `git clone https://github.com/augustine24ai-code/CCRM-Java.git`
