@@ -15,10 +15,10 @@ The Campus Course & Records Manager (CCRM) is a console-based Java application d
 
 In many academic environments, managing student records manually or using unstructured tools leads to:
 
-Data inconsistency
-Difficulty in tracking enrollments
-Errors in grading and records
-Lack of centralized management
+1) Data inconsistency
+2) Difficulty in tracking enrollments
+3) Errors in grading and records
+4) Lack of centralized management
 
 This project provides a structured solution to efficiently manage academic data.
 
@@ -68,11 +68,11 @@ This project provides a structured solution to efficiently manage academic data.
 ---
 
 ## 4. Concepts Implemented
-Encapsulation, Inheritance, Abstraction, Polymorphism
-Design Patterns (Singleton, Builder)
-Custom Exceptions
-File Handling (NIO.2)
-Lambda Expressions & Streams
+1) Encapsulation, Inheritance, Abstraction, Polymorphism
+2) Design Patterns (Singleton, Builder)
+3) Custom Exceptions
+4) File Handling (NIO.2)
+5) Lambda Expressions & Streams
 
 ---
 
@@ -105,8 +105,8 @@ Lambda Expressions & Streams
 ---
 
 ## 6.Learning Outcomes
-Practical implementation of Java concepts
-Structuring large-scale applications
-Debugging and handling errors
-Using Git & GitHub for version control
+1) Practical implementation of Java concepts
+2) Structuring large-scale applications
+3) Debugging and handling errors
+4) Using Git & GitHub for version control
 #
